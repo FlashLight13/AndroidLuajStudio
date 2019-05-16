@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLuajStudio</string>
+
+    <string name="write_script">write your script here</string>
+    <string name="script_output">the result will be here</string>
+    <string name="run_script">run script</string>
+</resources>
